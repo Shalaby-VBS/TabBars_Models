@@ -1,13 +1,23 @@
 # 💮 Flutter Tab Bars
 
+## 🚀 Getting Started
+
+- A versatile and customizable collection of tab bar models for Flutter, designed to simplify the implementation of various tab bar styles in your Flutter applications. Whether you need a classic fixed tab bar, a scrollable tab bar for dynamic content, or minimalist icon-only tabs, this package provides you with a range of options to enhance navigation and improve the overall user experience.
+
+## 📜 Table of Contents
+
+#### 1- 📌 Description.
+#### 2- 🎲 Features.
+#### 3- ☢️ Usage.
+#### 4- 📱 UI.
+#### 5- 🛠 Dependencies.
+#### 6- 🚨 Contributing.
+#### 7- 💳 License.
+
 ## 📌 Description
 
 - A lightweight and dependency-free package for implementing tab bars in Flutter applications.
 - This Repo provides simple and customizable tab bar widgets to help you organize and navigate through different sections of your app. Whether you need a basic fixed tab bar or a scrollable tab bar, this repo has you covered.
-
-## 🚀 Getting Started
-
-- This project is a starting point for a Flutter application.
 
 ## 🎲 Features
 
@@ -58,7 +68,7 @@ For more details on usage and customization options, refer to the documentation 
 
 - Haven't any Dependencies 🚫
 
-## 🚨 Contributions
+## 🚨 Contributing
 
 - Contributions are welcome 💜
 - If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
